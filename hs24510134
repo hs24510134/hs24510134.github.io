@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <title>Portfolio | Risini De Mel</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <header>
+        <h1>Risini De Mel</h1>
+        <p>Welcome to my e-Portfolio!</p>
+        <img src="your_photo.jpg" alt="Your Name" />
+    </header>
+
+    <section id="about">
+        <h2>About Me</h2>
+        <p>I am an ambitious undergraduate aspiring to become a food scientist, with a strong passion for advancing food science through innovative research. I have completed my diploma in English Language and Literature, and I am working towards becoming a professional in the science field.</p>
+    </section>
+
+    <section id="education">
+        <h2>Education</h2>
+        <ul>
+            <li><strong>Secondary Education:</strong>R/Ferguson High School</li>
+            <li><strong>Passes GCE O/L Examination (2020):</strong>
+                <ol>     
+                    <li>6 A's - Catholic, Mathematics, Business and Accounting, English, Dancing, Sinhala</li>
+                    <li>3 B's - ICT, Science, History</li>
+                </ol>
+            <li><strong>Passed GCE A/L Examination (2023):</strong>
+                <ol>
+                    <li> 1 C - Chemistry</li>     
+                    <li>2 S's - Biology, Physics</li>
+            <li><strong>Higher Education:</strong>Sri Lanka Institute of Information Technology (2024 onwards)</li>
+        </ul>
+    </section>
+  
+    <section id="skills">
+        <h2>Skills</h2>
+        <ul>
+            <li>Leadership</li>
+            <li>English Language and Literature</li>
+            <li>Presentation and Design</li>
+            <li>Self learning</li>
+        </ul>
+    </section>
+
+    <section id="projects">
+        <h2>Projects</h2>
+        <ul>
+            <li>Project 1: Portfolio website development</li>
+            <li>Project 2: Scientific research project (details here)</li>
+        </ul>
+    </section>
+
+    <section id="hobbies">
+        <h2>Hobbies</h2>
+        <p>In my free time, I enjoy sports, reading, and exploring new things with fun activities for learning.</p>
+    </section>
+
+    <section id="contact">
+        <h2>Contact Information</h2>
+        <p>Email: <a href="mailto:your.email@example.com">risinivihansa.demel@gmail.com</a></p>
+        <p>Download my resume: <a href="resume.pdf" download>Resume (PDF)</a></p>
+    </section>
+
+    <footer>
+        <p>&copy; 2024 Your Name</p>
+    </footer>
+</body>
+</html>
