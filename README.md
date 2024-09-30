@@ -43,7 +43,7 @@ I am an ambitious undergraduate aspiring to become a food scientist, with a stro
 • Cooking
 
 ### Download My Resume
-[Download](https://drive.google.com/file/d/1QVvxbIRaal1FmhAXcDvb3Ijhfwg3g5VU/view?usp=sharing)
+[Click Here](https://drive.google.com/file/d/1QVvxbIRaal1FmhAXcDvb3Ijhfwg3g5VU/view?usp=sharing)
 
 ### Contact Details
 Email: hs24510134@my.sliit.lk
